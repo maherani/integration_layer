@@ -1,0 +1,3 @@
+# Integration Layer Dependencies
+# In production, use standard pika client for RabbitMQ connectivity:
+pika>=1.3.2
